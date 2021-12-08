@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 *.zip
 archive
+.vscode
+env
+*.pyc
